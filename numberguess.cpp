@@ -28,7 +28,6 @@ int main()
     }
     else // If the guess is incorrect
     {
-
         do // Start the do/while loop
         {
             cout << "Incorrect, try again! > " << flush;
